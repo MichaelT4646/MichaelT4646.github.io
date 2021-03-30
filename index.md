@@ -8,6 +8,10 @@ This website is to show off a little bit about myself and show some of the work 
 
 ## The different parts of my website.
 
-- Learn more about me here: https://michaelt4646.github.io/about
+- Learn more about me here: 
 
-- Here are some projects that I have done: https://michaelt4646.github.io/projects
+https://michaelt4646.github.io/about
+
+- Here are some projects that I have done:
+
+https://michaelt4646.github.io/projects
