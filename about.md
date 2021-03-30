@@ -1,4 +1,4 @@
-# Welcome to the about page!
+# Welcome to the about me page!
 
 ## Here's some stuff to know about me:
 
@@ -6,7 +6,8 @@
 
 - My major is computer science.
 
-- I have a dog. Her name is Shelby and she is 10 years old this year.
+- I have a dog.
+  - Her name is Shelby and she is 10 years old this year.
 
 - My hobby is playing video games.
 
@@ -14,4 +15,4 @@
 
 - Home: https://michaelt4646.github.io/index
 
-- Projects: https://michaelt4646.github.io/projects
+- Here are some projects I have done https://michaelt4646.github.io/projects
