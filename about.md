@@ -16,8 +16,8 @@
 
 - Home:
 
-https://michaelt4646.github.io/index
+(https://michaelt4646.github.io/index)
 
 - Here are some projects I have done
 
-https://michaelt4646.github.io/projects
+(https://michaelt4646.github.io/projects)
